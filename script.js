@@ -1,0 +1,5 @@
+ - Preia textul introdus de utilizator (titlu, autor sau cuvânt-cheie)
+  - Trimite cereri HTTP către Open Library API
+  - Primeste și proceseaza datele sub forma JSON
+  - Afișeaza dinamic rezultate (carte, autor, imagine copertă)
+  - Gestioneaza cazurile fără rezultate sau erori de rețea
